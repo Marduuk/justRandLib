@@ -1,12 +1,12 @@
 {
-    "name": "Marduuk/rand_lib",
+    "name": "marduuk/rand_lib",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Marduuk/rand_lib"
+            "url": "https://github.com/marduuk/rand_lib"
         }
     ],
     "require": {
-        "Marduuk/rand_lib": "master"
+        "marduuk/rand_lib": "master"
     }
 }
