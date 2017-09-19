@@ -2,10 +2,11 @@
     "name": "Marduuk/justRandLib",
     "repositories": [
         {
+            "type": "vcs",
             "url": "https://github.com/Marduuk/justRandLib"
         }
     ],
     "require": {
-        "Marduuk/justRandLib": "dev-master"
+        "Marduuk/justRandLib": "master"
     }
 }
