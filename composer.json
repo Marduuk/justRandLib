@@ -1,0 +1,6 @@
+{
+    "name": "hesz/hash",
+    "require": {
+        "Marduuk/justRandLib": "dev-master"
+    }
+}
